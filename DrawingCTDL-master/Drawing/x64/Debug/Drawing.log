@@ -1,0 +1,19 @@
+﻿  CircleList.cpp
+  Deque.cpp
+  LinkList.cpp
+  DoubleLinkList.cpp
+  Queue.cpp
+  Drawing.cpp
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\graphics.h(40,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\graphics.h(41,56): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\graphics.h(200,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\graphics.h(201,18): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Drawing.cpp(81,13): warning C4101: 'i': unreferenced local variable
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Drawing.cpp(149,13): warning C4101: 'i': unreferenced local variable
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Drawing.cpp(522,13): warning C4101: 'i': unreferenced local variable
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Drawing.cpp(583,13): warning C4101: 'i': unreferenced local variable
+  Stack.cpp
+  Generating Code...
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Stack.cpp(53): warning C4715: 'Pop': not all control paths return a value
+E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\Drawing\Stack.cpp(75): warning C4715: 'Top': not all control paths return a value
+  Drawing.vcxproj -> E:\Study\CauTrucDuLieu_GiaiThuat\DoAn\DrawingCTDL-master\x64\Debug\Drawing.exe
