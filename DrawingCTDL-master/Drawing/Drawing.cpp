@@ -714,7 +714,7 @@ class Queue
             {
                 int a = 0;
                 system("cls");
-                drawText(200 + sonode * 90, 230, " front ");
+                drawText(190 + sonode * 60, 230, " front ");
                 drawText(230, 230, " rear ");
                 setcolor(9);
                 line(sonode * 60 + 60, 110, 0, 110);
